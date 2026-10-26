@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="charts/フォルダ容量を見つけるワークフロー.png" alt="windows-storage-analyzerの紹介バナー">
+</p>
+
 # windows-storage-analyzer
 # フォルダ容量スキャナー（Windows）
 
